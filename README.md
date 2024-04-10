@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Hello Humanos ! </a>
+    Hello Humans ! </a>
   </h1>
 
 <div align="center">
